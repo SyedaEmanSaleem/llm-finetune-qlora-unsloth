@@ -209,11 +209,4 @@ QLoRA reduces memory requirements by training only lightweight adapter parameter
 
 This project is licensed under the MIT License.
 
-## Author
 
-Created as an exploration of efficient Large Language Model fine-tuning, optimization, and deployment.
-
-```
-
-This README positions the repository as a complete **AI engineering portfolio project**, not just a training notebook.
-```

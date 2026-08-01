@@ -1,0 +1,28 @@
+# Core – Unsloth handles most of the heavy lifting
+unsloth
+# Explicit versions that work well together (adjust if needed)
+torch>=2.4.0
+transformers>=4.45.0
+trl>=0.11.0
+peft>=0.12.0
+accelerate>=0.34.0
+bitsandbytes>=0.43.0
+datasets>=2.21.0
+sentencepiece
+protobuf
+safetensors
+huggingface_hub
+hf_transfer
+
+# Optional but recommended
+xformers          # memory-efficient attention (Unsloth may install compatible version)
+einops
+tyro              # nice CLI for scripts
+pyyaml
+tqdm
+pandas
+numpy
+
+# For local inference / GGUF export later
+# llama-cpp-python   # install separately if needed
+# gguf

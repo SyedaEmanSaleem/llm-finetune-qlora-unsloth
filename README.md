@@ -1,12 +1,4 @@
-## GitHub Repository Description (under 300 characters)
 
-**An end-to-end LLM fine-tuning and deployment project using QLoRA and Unsloth. Includes efficient model training, LoRA adapter optimization, inference pipeline, and an interactive Gradio web demo for testing custom fine-tuned language models with minimal GPU resources.**
-
----
-
-## README.md
-
-```markdown
 # LLM Fine-Tuning with QLoRA, Unsloth and Gradio
 
 An end-to-end project for fine-tuning, optimizing, and deploying Large Language Models using **QLoRA** and **Unsloth**. This repository demonstrates how to train custom LLMs efficiently with limited GPU resources and deploy them through an interactive Gradio interface.
